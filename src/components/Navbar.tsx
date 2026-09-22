@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <a href="#home" className="logo">
-        DENO<span>VAL</span>
+        LUMI<span>NA</span>
       </a>
 
       <nav className={open ? "nav-links open" : "nav-links"}>

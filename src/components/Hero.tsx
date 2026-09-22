@@ -14,8 +14,6 @@ export default function Hero() {
       <div className="hero-glow hero-glow-two" />
 
       <div className="hero-top">
-        <span>GRAPHIC DESIGNER</span>
-
         <span>AVAILABLE FOR CREATIVE WORK</span>
       </div>
 
@@ -39,13 +37,8 @@ export default function Hero() {
       </div>
 
       <div className="hero-content">
-        <div className="hero-mini">
-          <span className="live-dot" />
-          DESIGN / VISUAL / CREATIVE
-        </div>
-
         <h1>
-          <BlurText text="DENOVAL" delay={100} />
+          <BlurText text="LUMINA" delay={100} />
 
           <span className="hero-outline">
             <ShinyText>DESIGN</ShinyText>
